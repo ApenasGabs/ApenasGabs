@@ -22,12 +22,12 @@
 
 <br>
 
-<a align="center" href="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Apenasgabs"><img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Apenasgabs&show_icons=true&include_all_commits=true&theme=compact&text_color=daf7dc&bg_color=151515" alt="Apenasgabs's github stats" />
+<a align="center" href="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Apenasgabs"><img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Apenasgabs&show_icons=true&include_all_commits=true&theme=dracula" alt="Apenasgabs's github stats" />
 </a>
 
 </br>
 
-<a align="center" href="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Apenasgabs"><img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Apenasgabs&layout=compact&text_color=daf7dc&bg_color=151515" />
+<a align="center" href="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Apenasgabs"><img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Apenasgabs&layout=compact&theme=dracula" />
 </a>
 
 <h2> :globe_with_meridians: Vamos tomar aquele :coffee: e fazer NetWork, contem comigo: </h2>
