@@ -1,8 +1,13 @@
 * {
     text-align: center;
 }
-
+header{
+    font-size: xx-large;
+}
 footer{
     margin: 1rem;
     text-align: center;
+}
+main{
+    font-weight: normal;
 }
