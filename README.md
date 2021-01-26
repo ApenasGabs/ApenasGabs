@@ -22,7 +22,7 @@
 
 <br>
 
-<a align="center" href="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Apenasgabs"><img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Apenasgabs&show_icons=true&include_all_commits=true&theme=dracula" alt="Apenasgabs's github stats" />
+<a align="center" href="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Apenasgabs"><img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Apenasgabs&count_private=true&show_icons=true&include_all_commits=true&theme=dracula" alt="Apenasgabs's github stats" />
 </a>
 
 </br>
@@ -33,7 +33,10 @@
 <h2> :globe_with_meridians: Vamos tomar aquele :coffee: e fazer NetWork, contem comigo: </h2>
 
 <p align="center">
- 
+https://github-readme-stats.anuraghazra1.vercel.app/api?username=apenasgabs&count_private=true
+
 &nbsp; <a align="center" href="https://www.linkedin.com/in/Apenasgabs/" target="_blank" rel="noopener noreferrer"><img align="center" src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 &nbsp; <a align="center" href="mailto:Gabers357@gmail.com" target="_blank" rel="noopener noreferrer"><img align="center" src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+
+
 </p>
