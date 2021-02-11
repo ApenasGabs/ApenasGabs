@@ -31,7 +31,7 @@
 </a>
 <a align="center" href="https://github-readme-stats.vercel.app/api/wakatime?username=Apenasgabs"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Apenasgabs&layout=compact&theme=radical" />
 </a>
-<
+
 
 
 <h2> :globe_with_meridians: Vamos tomar aquele :coffee: e fazer NetWork, contem comigo: </h2>
