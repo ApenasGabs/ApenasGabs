@@ -22,7 +22,7 @@
 
 <br>
 
-<a align="center" href="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Apenasgabs"><img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Apenasgabs&count_private=true&show_icons=true&include_all_commits=true&theme=dracula" alt="Apenasgabs's github stats" />
+<a align="center" href="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Apenasgabs"><img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Apenasgabs&count_private=true&show_icons=true&include_all_commits=false&theme=dracula" alt="Apenasgabs's github stats" />
 </a>
 
 </br>
