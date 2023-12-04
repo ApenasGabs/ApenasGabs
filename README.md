@@ -24,7 +24,7 @@
 
 <br>
 
-<a align="center" href="https://apenasgabs-info.vercel.app/api?username=Apenasgabs"><img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Apenasgabs&count_private=true&show_icons=true&include_all_commits=false&theme=dracula" alt="Apenasgabs's github stats" />
+<a align="center" href="https://apenasgabs-info.vercel.app/api/top-langs/?username=apenasgabs&layout=pie&theme=dracula&hide=c,html,c%2B%2B,processing,makefile,nix,css&langs_count=4"><img align="center" src="https://apenasgabs-info.vercel.app/api/top-langs/?username=apenasgabs&hide=c,html,c%2B%2B,processing,makefile,nix,css&langs_count=4&layout=pie&theme=dracula" alt="Apenasgabs's github stats" />
 </a>
 
 </br>
