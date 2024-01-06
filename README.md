@@ -5,7 +5,7 @@
 
 <h3>  💻 Quem sou eu: </h3>
 
--   &nbsp; Eu sou o Gabriel Rodrigues mas pode me chamar de Gabs, 
+-   &nbsp; Me chamo Gabriel Rodrigues mas pode me chamar de Gabs;
 - 🔭 &nbsp; Estou estudando JavaScript e seus Frameworks, principalmente React;
 - 🎓 &nbsp; Apaixonado por tecnologia, cursei Eletroeletronica no COTUCA - Colégio Técnico de Campinas da Unicamp;
 - 🎓 &nbsp; Formado em Análise e Desenvolvimento de Sistemas - UniMetrocamp;
