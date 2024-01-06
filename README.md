@@ -1,9 +1,10 @@
 
 <h2> Hello World!</h2>
 <img align="center" alt="GIF" src="https://becode.com.br/wp-content/uploads/2016/10/Por-que-usar-JavaScript.gif" width="400"/>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apenasgabs&label=Profile%20views&color=0e75b6&style=flat" alt="apenasgabs" /> </p>
+
 <h3>  💻 Quem sou eu: </h3>
+
 -   &nbsp; Eu sou o Gabriel Rodrigues mas pode me chamar de Gabs, 
 - 🔭 &nbsp; Estou estudando JavaScript e seus Frameworks, principalmente React;
 - 🎓 &nbsp; Apaixonado por tecnologia, cursei Eletroeletronica no COTUCA - Colégio Técnico de Campinas da Unicamp;
