@@ -40,11 +40,11 @@
 </a>
 </details>
 </br>
-
-  
+  <a href="https://www.buymeacoffee.com/apenasgabs" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 <h2> 🌐 Vamos tomar aquele ☕ e fazer NetWork, contem comigo: </h2>
 <p>
 &nbsp; <a align="center" href="https://www.linkedin.com/in/Apenasgabs/" target="_blank" rel="noopener noreferrer"><img align="center" src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 &nbsp; <a align="center" href="mailto:apenasgabs.dev@gmail.com" target="_blank" rel="noopener noreferrer"><img align="center" src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
+
 
