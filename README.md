@@ -3,6 +3,8 @@
 <img align="center" alt="GIF" src="https://becode.com.br/wp-content/uploads/2016/10/Por-que-usar-JavaScript.gif" width="400"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apenasgabs&label=Profile%20views&color=0e75b6&style=flat" alt="apenasgabs" /> </p>
 
+[![wakatime](https://wakatime.com/badge/user/8dfbe3da-d84d-4ba9-83b3-86d819141416.svg)](https://wakatime.com/@8dfbe3da-d84d-4ba9-83b3-86d819141416)
+
 <h3>  💻 Quem sou eu: </h3>
 
 -   &nbsp; Me chamo Gabriel Rodrigues mas pode me chamar de Gabs;
@@ -26,7 +28,7 @@
 <br>
 <details>
 <summary>Quanto tempo codei nesse ano 🤔</summary>
-<a align="center" href="https://apenasgabs-info.vercel.app/api/wakatime?username=Apenasgabs"><img align="center" src="https://apenasgabs-info.vercel.app/api/wakatime?username=Apenasgabs&layout=compact&theme=radical&locale=pt-br" />
+<a align="center" href="https://apenasgabs-info.vercel.app/api/wakatime?username=apenasgabs"><img align="center" src="https://apenasgabs-info.vercel.app/api/wakatime?username=Apenasgabs&layout=compact&theme=radical&locale=pt-br" />
 </a>
 </details>
 <details>
