@@ -27,7 +27,7 @@
 
 <br>
 Quanto tempo codei nesse ano 🤔
-<a align="center" href="https://apenasgabs-info.vercel.app/api/wakatime?username=apenasgabs"><img align="center" src="https://apenasgabs-info.vercel.app/api/wakatime?username=Apenasgabs&layout=compact&theme=radical&locale=pt-br" />
+<a align="center" href="https://apenasgabs-info.vercel.app/api/wakatime?username=apenasgabs&layout=compact&theme=radical&locale=pt-br"><img align="center" src="https://apenasgabs-info.vercel.app/api/wakatime?username=apenasgabs&layout=compact&theme=radical&locale=pt-br" />
 </a>
 
 Estatísticas do GitHub 🤩
