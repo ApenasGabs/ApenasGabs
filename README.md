@@ -26,21 +26,17 @@
 - 🔧 &nbsp; Scrum | Kanban | Git | Github | Docker
 
 <br>
-<details>
-<summary>Quanto tempo codei nesse ano 🤔</summary>
+Quanto tempo codei nesse ano 🤔
 <a align="center" href="https://apenasgabs-info.vercel.app/api/wakatime?username=apenasgabs"><img align="center" src="https://apenasgabs-info.vercel.app/api/wakatime?username=Apenasgabs&layout=compact&theme=radical&locale=pt-br" />
 </a>
-</details>
-<details>
-<summary>Estatísticas do GitHub 🤩</summary>
+
+Estatísticas do GitHub 🤩
 <a align="center" href="https://apenasgabs-info.vercel.app/api?username=apenasgabs&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=radical"><img height=300 align="center" src="https://apenasgabs-info.vercel.app/api?username=apenasgabs&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=radical&locale=pt-br" />
 </a>
-</details>
-<details>
-<summary>Top 6 linguagens mais usadas 😁</summary>
+Top 6 linguagens mais usadas 😁
 <a align="center" href="https://apenasgabs-info.vercel.app/api/top-langs/?username=apenasgabs&locale=pt-br&hide=c,html,c%2B%2B,processing,makefile,nix,css&layout=pie&theme=radical"><img align="center" height=300  src="https://apenasgabs-info.vercel.app/api/top-langs/?username=apenasgabs&hide=c,html,c%2B%2B,processing,makefile,nix,css&layout=pie&theme=radical&locale=pt-br" alt="Apenasgabs's github stats" />
 </a>
-</details>
+
 </br>
   <a href="https://www.buymeacoffee.com/apenasgabs" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 <h2> 🌐 Vamos tomar aquele ☕ e fazer NetWork, contem comigo: </h2>
