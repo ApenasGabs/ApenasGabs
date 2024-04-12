@@ -26,19 +26,25 @@
 - 🔧 &nbsp; Scrum | Kanban | Git | Github | Docker
 
 <br>
-Quanto tempo codei nesse ano 🤔
+<p align="left">Quanto tempo codei nesse ano 🤔</p>
+<br>
 <a align="center" href="https://apenasgabs-info.vercel.app/api/wakatime?username=apenasgabs&layout=compact&theme=radical&locale=pt-br"><img align="center" src="https://apenasgabs-info.vercel.app/api/wakatime?username=apenasgabs&layout=compact&theme=radical&locale=pt-br" />
 </a>
 
-Estatísticas do GitHub 🤩
+<br>
+<p align="left">Estatísticas do GitHub 🤩</p>
+<br>
+
 <a align="center" href="https://apenasgabs-info.vercel.app/api?username=apenasgabs&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=radical"><img height=300 align="center" src="https://apenasgabs-info.vercel.app/api?username=apenasgabs&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=radical&locale=pt-br" />
 </a>
-Top 6 linguagens mais usadas 😁
+
+<br>
+<p align="left">Top 6 linguagens mais usadas 😁</p>
+<br>
 <a align="center" href="https://apenasgabs-info.vercel.app/api/top-langs/?username=apenasgabs&locale=pt-br&hide=c,html,c%2B%2B,processing,makefile,nix,css&layout=pie&theme=radical"><img align="center" height=300  src="https://apenasgabs-info.vercel.app/api/top-langs/?username=apenasgabs&hide=c,html,c%2B%2B,processing,makefile,nix,css&layout=pie&theme=radical&locale=pt-br" alt="Apenasgabs's github stats" />
 </a>
-
-</br>
-  <a href="https://www.buymeacoffee.com/apenasgabs" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+<br>
+<a href="https://www.buymeacoffee.com/apenasgabs" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 <h2> 🌐 Vamos tomar aquele ☕ e fazer NetWork, contem comigo: </h2>
 <p>
 &nbsp; <a align="center" href="https://www.linkedin.com/in/Apenasgabs/" target="_blank" rel="noopener noreferrer"><img align="center" src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
