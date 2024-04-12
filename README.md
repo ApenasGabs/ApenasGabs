@@ -19,12 +19,15 @@
 
 <h3>⚛️ &nbsp; Competências Técnicas: </h3>
 
-- 💻 &nbsp; HTML | CSS | JavaScript | TypeScript | Python | GoLang   
-- 🌐 &nbsp; ReactJs | ReactTs| Next.Js | Styled Components | PWA
-- :scroll: &nbsp; NodeJS | Express | Python | Flask | GraphQL
-- :art: &nbsp; Visual Studio | Visual Studio code | Figma | Whimsical
-- 🔧 &nbsp; Scrum | Kanban | Git | Github | Docker
-
+- 💻 HTML | CSS | JavaScript | TypeScript | Python | GoLang | Java | Node.js<br>
+- 🌐 ReactJs | ReactTs | Next.Js | Styled Components | PWA | Spring MVC | Spring Boot | Spring Security<br>
+- 📦 Docker | Docker Compose | AWS | Maven<br>
+- 🌿 Hibernate | JPA | H2 | JBDC | SQL | MySQL<br>
+- ⚙️ RESTful API | SOAP | GraphQL | Flask<br>
+- 🔧 Git | GitHub | CI/CD | Scrum | Kanban | OOP | Design Patterns | Unit Testing | Java EE<br>
+- :art: Visual Studio | Visual Studio Code | Figma | Whimsical | CSS, SASS, Tailwind | Html/Jsx<br>
+- 🔍 Solid knowledge in data structure and modeling<br>
+- 🔄 Agile Methodologies: Scrum and Kanban<br>
 <br>
 <p align="left">Quanto tempo codei nesse ano 🤔</p>
 <br>
