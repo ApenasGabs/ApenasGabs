@@ -13,7 +13,7 @@
 - 🎓 &nbsp; Formado em Análise e Desenvolvimento de Sistemas - UniMetrocamp;
 - 🎓 &nbsp; Especialização Tecnolgias Microsoft - Extecamp Unicamp;
 - 🎓 &nbsp; Pós-graduação, projetos de aplicativos móveis multiplataforma - Descomplica Faculdade Digital;
-- 💼 &nbsp; Já fui QA por pouco mais de 3 anos e hoje atuo como dev Front-End a cerca de 3 anos, mas estou sempre em busca de novas oportunidades de aprendizado;
+- 💼 &nbsp; Já fui QA por pouco mais de 3 anos e hoje atuo como dev Front-End a cerca de 4 anos, mas estou sempre em busca de novas oportunidades de aprendizado;
 - :computer: &nbsp; Gosto de participar de eventos sobre várias tecnologias para fazer network com qualquer dev e entender um pouco mais desse mundo gigante em que estamos conectados;
 - :iphone: &nbsp; Minha paixão é criar, gosto de mexer com automação residencial no meu tempo livre, coisas com alexa, google nest e arduino/Raspberry, mas fora da pandemia praticava esportes como skate e parkour;
 
