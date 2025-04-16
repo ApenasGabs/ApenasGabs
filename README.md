@@ -12,8 +12,8 @@
 - 🎓 &nbsp; Apaixonado por tecnologia, cursei Eletroeletronica no COTUCA - Colégio Técnico de Campinas da Unicamp;
 - 🎓 &nbsp; Formado em Análise e Desenvolvimento de Sistemas - UniMetrocamp;
 - 🎓 &nbsp; Especialização Tecnolgias Microsoft - Extecamp Unicamp;
-- 🎓 &nbsp; Cursando uma pós-graduação, especialização em projetos de aplicativos móveis multiplataforma - Descomplica Faculdade Digital;
-- 💼 &nbsp; Já fui QA por pouco mais de 3 anos e hoje atuo como dev Front-End a cerca de 2 anos, mas estou sempre em busca de novas oportunidades de aprendizado;
+- 🎓 &nbsp; Pós-graduação, em projetos de aplicativos móveis multiplataforma - Descomplica Faculdade Digital;
+- 💼 &nbsp; Já fui QA por pouco mais de 3 anos e hoje atuo como dev Front-End a cerca de 3 anos, mas estou sempre em busca de novas oportunidades de aprendizado;
 - :computer: &nbsp; Gosto de participar de eventos sobre várias tecnologias para fazer network com qualquer dev e entender um pouco mais desse mundo gigante em que estamos conectados;
 - :iphone: &nbsp; Minha paixão é criar, gosto de mexer com automação residencial no meu tempo livre, coisas com alexa, google nest e arduino/Raspberry, mas fora da pandemia praticava esportes como skate e parkour;
 
@@ -31,8 +31,9 @@
 <br>
 <p align="left">Quanto tempo codei nesse ano 🤔</p>
 <br>
-<a align="center" href="https://info.apenasgabs.dev/api/wakatime?username=apenasgabs&layout=compact&theme=radical&locale=pt-br"><img align="center" src="https://info.apenasgabs.dev/api/wakatime?username=apenasgabs&layout=compact&theme=radical&locale=pt-br" />
+<a align="center" href="https://info.apenasgabs.dev/api/wakatime?username=apenasgabs&layout=compact&theme=radical&locale=pt-br&hide=other,Prolog,CSV,Kotlin,TSX,Vue.js,Objective-C,Arduino,Terraform,ActionsScript%203,TSQL,GDScript,Less,Assembly,Git,CDScript3,SSH%20Config,Ezhil,PowerShell,Properties,Debian%20Sourcelist,Shell,Groovy,Gitignore%20file,GDScript,Roff,ActionScript%203,GDScript3"><img align="center" src="https://info.apenasgabs.dev/api/wakatime?username=apenasgabs&layout=compact&theme=radical&locale=pt-br&hide=other,Prolog,CSV,Kotlin,TSX,Vue.js,Objective-C,Arduino,Terraform,ActionsScript%203,TSQL,GDScript,Less,Assembly,Git,CDScript3,SSH%20Config,Ezhil,PowerShell,Properties,Debian%20Sourcelist,Shell,Groovy,Gitignore%20file,GDScript,Roff,ActionScript%203,GDScript3" />
 </a>
+
 
 <br>
 <p align="left">Estatísticas do GitHub 🤩</p>
@@ -44,10 +45,11 @@
 <br>
 <p align="left">Top 6 linguagens mais usadas 😁</p>
 <br>
+
 <a align="center" href="https://info.apenasgabs.dev/api/top-langs/?username=apenasgabs&locale=pt-br&hide=c,html,c%2B%2B,processing,makefile,nix,css&layout=pie&theme=radical"><img align="center" height=300  src="https://info.apenasgabs.dev/api/top-langs/?username=apenasgabs&hide=c,html,c%2B%2B,processing,makefile,nix,css&layout=pie&theme=radical&locale=pt-br" alt="Apenasgabs's github stats" />
 </a>
 <br>
-<a href="https://www.buymeacoffee.com/apenasgabs" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+<a href="http://livepix.gg/apenasgabs" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 <h2> 🌐 Vamos tomar aquele ☕ e fazer NetWork, contem comigo: </h2>
 <p>
 &nbsp; <a align="center" href="https://www.linkedin.com/in/Apenasgabs/" target="_blank" rel="noopener noreferrer"><img align="center" src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
